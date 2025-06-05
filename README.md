@@ -1,7 +1,7 @@
 # WeFlix - 您的终极个人媒体中心
 
 <div align="center">
-    <img src="screenshots/logo_placeholder.png" alt="WeFlix Logo" width="200"/>
+    <img src="https://weflix.xxin.top/images/logo.svg" alt="WeFlix Logo" width="200"/>
     <p><em>同心之匣 - 让观影体验更臻完美</em></p>
 </div>
 
