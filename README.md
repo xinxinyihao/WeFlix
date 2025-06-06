@@ -10,7 +10,9 @@
 WeFlix 是一款功能强大、界面精美的个人媒体管理与播放系统，专为影视爱好者量身打造。它不仅仅是一个视频播放器，更是一个全方位的媒体管理解决方案，能够智能组织您的所有影视资源，让您的观影体验达到前所未有的高度。
 
 无论您是电影收藏家、剧集追随者，还是家庭影院爱好者，WeFlix 都能满足您对媒体管理和播放的一切需求。告别杂乱无章的文件夹和繁琐的手动整理，体验智能化、自动化的媒体管理新时代！
-![电视剧剧集页面](https://github.com/user-attachments/assets/91f530b8-b9ad-4c0e-bc27-5863ff241616)![电影页面](https://github.com/user-attachments/assets/4a6fd84c-6970-4e75-98d3-80b1f976e3a5)![电视剧季页面](https://github.com/user-attachments/assets/a83f5c0e-f103-4fc9-bd94-5811516a19a4)
+![电视剧剧集页面](https://github.com/user-attachments/assets/91f530b8-b9ad-4c0e-bc27-5863ff241616)
+![电影页面](https://github.com/user-attachments/assets/4a6fd84c-6970-4e75-98d3-80b1f976e3a5)
+![电视剧季页面](https://github.com/user-attachments/assets/a83f5c0e-f103-4fc9-bd94-5811516a19a4)
 ![影视分类展示](https://github.com/user-attachments/assets/2eded787-c3f0-4b83-b4d2-dd26e58adf2d)
 ![多种影视资源](https://github.com/user-attachments/assets/44037563-8528-4273-9b58-3eb10e0e6889)
 ![批量自动刮削](https://github.com/user-attachments/assets/7bc113d2-6364-4391-8092-dac3cce0d5cf)
